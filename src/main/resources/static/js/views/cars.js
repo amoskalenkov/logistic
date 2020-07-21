@@ -1,10 +1,10 @@
-define(function () {
+define(function() {
     return {
         rows: [
             {
-                view:"button",
+                view: 'button',
                 label: 'Main',
-                click: function () {
+                click: function() {
                     routie('')
                 }
             },
