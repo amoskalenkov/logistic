@@ -39,6 +39,7 @@ require(['views/main', 'views/cars', 'views/marks', 'util/resourceProxy'],
                     cols:[
                         buildButton('Home', ''),
                         buildButton('Marks', 'marks'),
+                        buildButton('Cars', 'cars'),
                     ]
                 },
                 {
