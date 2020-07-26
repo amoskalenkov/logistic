@@ -5,5 +5,6 @@ define(['component/listPage', 'collections/marks'],function (listPage, marks) {
         [
             {id: "name", editor: "text"},
             {id: "mark", editor: "combo",  options: marks}
-    ])
+        ]
+    )
 })
